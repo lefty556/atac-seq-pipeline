@@ -1,0 +1,7 @@
+{
+    "default_runtime_attributes" : {
+        "pbs_queue" : "batch",
+        "singularity_container" : "/apps/singularity/atac-seq-pipeline-v1.1.1.simg",
+	"singularity_bindpath" : "/apps,/clinical,/research,/ref,/scratch"
+    }
+}
